@@ -1,5 +1,5 @@
 {
-  "name": "@chaunt1/keycloak-connect-graphql",
+  "name": "@chowchow/keycloak-connect-graphql",
   "version": "0.7.1",
   "description": "Add Keycloak authentication and authorization to your GraphQL server.",
   "keywords": [
