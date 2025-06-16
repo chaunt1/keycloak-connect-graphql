@@ -1,6 +1,6 @@
 {
-  "name": "keycloak-connect-graphql",
-  "version": "0.7.0",
+  "name": "@chaunt1/keycloak-connect-graphql",
+  "version": "0.7.1",
   "description": "Add Keycloak authentication and authorization to your GraphQL server.",
   "keywords": [
     "graphql",
@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aerogear/keycloak-connect-graphql"
+    "url": "https://github.com/chaunt1/keycloak-connect-graphql"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
